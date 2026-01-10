@@ -1034,15 +1034,15 @@ links:
   # Member item of page
   items:
     - {
-      title: "Fluid Blog",
-      intro: "主题博客",
-      link: "https://hexo.fluid-dev.com/",
+      title: "小陈同学的个人博客",
+      intro: "他是原批",
+      link: "https://cyh2004.github.io/index.html",
       avatar: "/img/favicon.png"
     }
     - {
-      title: "Fluid Docs",
+      title: "latex公式生成器",
       intro: "主题使用指南",
-      link: "https://hexo.fluid-dev.com/docs/",
+      link: "https://www.latexlive.com/##",
       avatar: "/img/favicon.png"
     }
     - {
