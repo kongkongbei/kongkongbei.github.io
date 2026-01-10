@@ -567,7 +567,7 @@ post:
   meta:
     # 作者，优先根据 front-matter 里 author 字段，其次是 hexo 配置中 author 值
     # Author, based on `author` field in front-matter, if not set, based on `author` value in hexo config
-    author: 空空杯
+    author: 
       enable: true
 
     # 文章日期，优先根据 front-matter 里 date 字段，其次是 md 文件日期
