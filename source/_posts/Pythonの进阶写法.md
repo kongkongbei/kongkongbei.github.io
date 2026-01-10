@@ -2,6 +2,7 @@
 title: Pythonの进阶写法
 data: 2026-01-10 15:25
 author: 空空杯
+excerpt: 妙啊
 categories: 
   - 芝士
 ---
