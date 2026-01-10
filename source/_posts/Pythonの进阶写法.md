@@ -1,5 +1,5 @@
 ---
-title:Pythonの进阶写法
+title: Pythonの进阶写法
 ---
 ## 1.循环嵌套的合并
 源码:
