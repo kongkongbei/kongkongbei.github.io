@@ -1,10 +1,10 @@
 ---
 title: Pythonの进阶写法
-data: 2026-01-10 15:25
+data: 2026-01-10 
 author: 空空杯
-excerpt: 妙啊
+excerpt: 居然还能这么写
 categories: 
-  - 芝士
+  - 芝士,与你分享
 ---
 ## 1.循环嵌套的合并
 源码:
@@ -27,7 +27,7 @@ print(tokens_1d)  # 输出：['I', 'love', 'Python', 'Hello', 'world']
 ```
 
 ## 2.下划线的奇妙用法
-### 1.单下划线
+1. 单下划线
 ```python
 _var # 约定俗成的私有成员,实际上Python并无私有变量这一概念
 
@@ -44,19 +44,19 @@ print(vocab.token_freqs)  # 输出：[('I', 2), ('love', 1), ('Python', 1)]
 vocab.token_freqs = [('fake', 999)]
 # 报错：AttributeError: can't set attribute 'token_freqs'
 ```
-### 2.单末尾下划线\
+2. 单末尾下划线\
 ```python
 var_ # 用来避免与Python关键字产生命名冲突
 ```
-### 3.双前导下划线
+3. 双前导下划线
 ```python
 __var # 为了防止变量在子类中被重写
 ```
-### 4.双前导和双末尾下划线 
+4. 双前导和双末尾下划线 
 ```python
 __var__ # 神奇方法,类似于重构Python中已有的方法
 ```
-### 5.单下划线 
+5. 单下划线 
 ```python
 # 用于作为临时变量或者无意义变量的名称
 >>> car = ('red', 'auto', 12, 3812.4)
