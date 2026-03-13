@@ -2,7 +2,7 @@
 title: 碎碎念&哲学思辩&自我剖析
 author: 空空杯
 excerpt: 
-categories: 
+categories: NULL
   - 不为谁而写的post
 ---
 ## 是时候发挥这个Blog真正的用途了(26.02.17)
