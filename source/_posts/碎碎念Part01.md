@@ -2,7 +2,7 @@
 title: 碎碎念
 data: 2026-02-17
 author: 空空杯
-excerpt: NULL
+excerpt: 我是凑企鹅
 hide: true
 categories: 
   - 不为谁而作的post
