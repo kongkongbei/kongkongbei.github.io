@@ -1,6 +1,6 @@
 ---
 title: OpenCV在Qt下的配置方法
-data: 2026-03-13
+date: 2026-03-13 
 author: 空空杯
 excerpt: 详情见帖子内部
 categories: 

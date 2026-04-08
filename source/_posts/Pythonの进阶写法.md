@@ -1,6 +1,6 @@
 ---
 title: Pythonの进阶写法
-data: 2026-01-10 
+date: 2026-01-10 
 author: 空空杯
 excerpt: 居然还能这么写
 categories: 
