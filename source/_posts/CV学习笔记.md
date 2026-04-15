@@ -78,7 +78,7 @@ categories:
 ![ViT网络框架图](/img/CVLearning/9.png)
 
 ## 六、[DETR](https://arxiv.org/abs/2005.12872)
-- 核心亮点：
+- 核心亮点：预训练做到零样本学习
 - 思想方法与操作细节：
 - ViT网络框架图
 
