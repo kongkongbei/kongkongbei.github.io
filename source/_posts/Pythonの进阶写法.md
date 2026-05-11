@@ -94,3 +94,5 @@ self.token_to_idx = {}
 for idx, token in enumerate(self.idx_to_token):
     self.token_to_idx[token] = idx  # 键=词元，值=索引
 ```
+## 5.pytorch中的nn.Module类详解
+nn.Module是所有自定义神经网络模型的基类，其包含多层(Layer)，如卷积层、全连接层、激活函数、数据容器等，[详情点击这。](https://docs.pytorch.org/docs/stable/nn.html)容器类用于将模型进行组合拼接，同时包含可学习参数函数Parameter，可自行更新数据
